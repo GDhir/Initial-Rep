@@ -9,7 +9,7 @@ int main()
 	cout<<"Initial Commit";
 	int x=3;
 	int y=4;
-	cout<<y/x;
+	cout<<y-x;
 
 	return 0;
 }
